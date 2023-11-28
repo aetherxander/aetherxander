@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @aetherxander
-- 👀 I’m interested in ... using github to version control our momentum automation process text files
-- 🌱 I’m currently learning ... how to use github and what is in each type of momentum text file.
+- 👀 I’m interested in ... using github for everything
+- 🌱 I’m currently learning ... how to write code
 - 💞️ I’m looking to collaborate on ... things involving software and automation
 - 📫 How to reach me ... slack or email
 
